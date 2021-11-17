@@ -4,7 +4,7 @@
 
 ## Metadata
 
-|   Variable     |  |
+|        |  |
 |:--------------|:-----------|
 | **Author**			|  O’Sullivan     | 
 | **Year**				| 		2019	 | 

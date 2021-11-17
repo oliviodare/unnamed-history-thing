@@ -11,7 +11,7 @@
 | **Title**				| 	'Resist calls for replicability in the humanities'		 | 
 | **Kind**				| Article | 
 | **Journal/Publisher**				| 	*Nature*		 | 
-| **Date read**				| 	{{date}}	 | 
+| **Date read**				| 		 | 
 | **Weblink**				| 	http://www.nature.com/articles/d41586-018-05845-z		 | 
 
 **Take-home message**:

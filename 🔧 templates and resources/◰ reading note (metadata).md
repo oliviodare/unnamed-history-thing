@@ -4,7 +4,7 @@
 
 ## Metadata
 
-|   Variable     |  |
+|        |  |
 |:--------------|:-----------|
 | **Author**			| Surname     | 
 | **Year**				| 			 | 
