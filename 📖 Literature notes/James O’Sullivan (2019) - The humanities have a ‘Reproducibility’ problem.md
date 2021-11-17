@@ -1,14 +1,26 @@
----
-title: The humanities have a ‘Reproducibility’ problem
-authors: James O’Sullivan
-year: 2019
-doi: 
-url: https://talkinghumanities.blogs.sas.ac.uk/2019/07/09/the-humanities-have-a-reproducibility-problem/
+# The humanities have a ‘reproducibility’ problem
+#readingnote 
+
+
+## Metadata
+
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			|  O’Sullivan     | 
+| **Year**				| 		2019	 | 
+| **Title**				| 	'The humanities have a ‘reproducibility’ problem'		 | 
+| **Kind**				| Blogpost	 | 
+| **Journal/Publisher**				| 	*Talking Humanities*		 | 
+| **Date read**				| 		 | 
+| **Weblink**				| 	https://talkinghumanities.blogs.sas.ac.uk/2019/07/09/the-humanities-have-a-reproducibility-problem/		 | 
+
+**Take-home message**:
+
 ---
 
-# The humanities have a ‘Reproducibility’ problem
+## Reading notes
 
-## TJ 
+### TJ 
 
 Humanities which rely on digital analysis (bit broader that digital humanities, which (to me) is more doing that, rather than citing results from a DH paper) have problems reproducing these things because: 
 
