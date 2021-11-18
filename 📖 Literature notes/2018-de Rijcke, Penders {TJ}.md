@@ -1,15 +1,27 @@
----
-title: Resist calls for replicability in the humanities
-authors: Sarah de Rijcke, Bart Penders
-year: 2018
-doi: 
-url: http://www.nature.com/articles/d41586-018-05845-z
----
-
 # Resist calls for replicability in the humanities
+#readingnote 
 
 
-## TJ
+## Metadata
+
+|   Variable     |  |
+|:--------------|:-----------|
+| **Author**			| de Rijcke, Penders     | 
+| **Year**				| 		2018	 | 
+| **Title**				| 	'Resist calls for replicability in the humanities'		 | 
+| **Kind**				| Article | 
+| **Journal/Publisher**				| 	*Nature*		 | 
+| **Date read**				| 		 | 
+| **Weblink**				| 	http://www.nature.com/articles/d41586-018-05845-z		 | 
+
+**Take-home message**:
+
+---
+
+## Reading notes
+
+
+### TJ
 
 > "With co-producers of data and meaning, protocols are never set in stone, reporting guidelines are necessarily local and consent is always fluid" ([de Rijcke and Penders 2018:29](zotero://open-pdf/groups/4474011/items/KTF5S3NK?page=1))
 
