@@ -1,22 +1,13 @@
-# The humanities have a ‘reproducibility’ problem
-#readingnote 
-
-
-## Metadata
-
-|        |  |
-|:--------------|:-----------|
-| **Author**			|  O’Sullivan     | 
-| **Year**				| 		2019	 | 
-| **Title**				| 	'The humanities have a ‘reproducibility’ problem'		 | 
-| **Kind**				| Blogpost	 | 
-| **Journal/Publisher**				| 	*Talking Humanities*		 | 
-| **Date read**				| 		 | 
-| **Weblink**				| 	https://talkinghumanities.blogs.sas.ac.uk/2019/07/09/the-humanities-have-a-reproducibility-problem/		 | 
-
-**Take-home message**:
-
 ---
+title: The humanities have a ‘reproducibility’ problem
+authors: James O’Sullivan
+year: 2019
+publication: Talking Humanities
+doi: 
+url: https://talkinghumanities.blogs.sas.ac.uk/2019/07/09/the-humanities-have-a-reproducibility-problem/
+---
+
+# The humanities have a ‘reproducibility’ problem
 
 ## Reading notes
 

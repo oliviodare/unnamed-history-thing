@@ -1,22 +1,14 @@
-# Resist calls for replicability in the humanities
-#readingnote 
-
-
-## Metadata
-
-|   Variable     |  |
-|:--------------|:-----------|
-| **Author**			| de Rijcke, Penders     | 
-| **Year**				| 		2018	 | 
-| **Title**				| 	'Resist calls for replicability in the humanities'		 | 
-| **Kind**				| Article | 
-| **Journal/Publisher**				| 	*Nature*		 | 
-| **Date read**				| 		 | 
-| **Weblink**				| 	http://www.nature.com/articles/d41586-018-05845-z		 | 
-
-**Take-home message**:
-
 ---
+title: Resist calls for replicability in the humanities
+authors: Sarah de Rijcke, Bart Penders
+year: 2018
+publication: Nature
+doi: 
+url: http://www.nature.com/articles/d41586-018-05845-z
+---
+
+
+# Resist calls for replicability in the humanities
 
 ## Reading notes
 
