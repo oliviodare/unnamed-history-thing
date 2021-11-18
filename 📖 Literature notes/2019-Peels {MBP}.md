@@ -1,25 +1,17 @@
-# Replicability and replication in the humanities
-
-#readingnote
-
-
-## Metadata
-
-|        |  |
-|:--------------|:-----------|
-| **Author**			| Peels     |
-| **Year**				| 	2019		 |
-| **Title**				| 	'Replicability and replication in the humanities'		 |
-| **Kind**				| Article	 |
-| **Journal/Publisher**				| 	*Research Integrity and Peer Review*		 |
-| **Date read**				| 	17 November 2021	 |
-| **Weblink**				| 	https://doi.org/10.1186/s41073-018-0060-4		 |
-
-**Take-home message**:  A case for encouraging replication studies in the humanities.
-
+---
+title: Replicability and replication in the humanities
+authors: Rik Peels
+year: 2019
+publication: Research Integrity and Peer Review
+doi: 10.1186/s41073-018-0060-4
+url: https://doi.org/10.1186/s41073-018-0060-4
 ---
 
+# Replicability and replication in the humanities
+**Take-home message**:  A case for encouraging replication studies in the humanities.
+
 ## Reading notes
+
 
 
 > The issue of replicability and replication in academic research is important for various reasons. Let me mention four of them: (i) results that are consistently replicated are likely to be true, all else being equal, that is, controlling for such phenomena as publication bias and assuming that the other assumptions in the relevant theory or model are valid, (ii) replicability prevents the waste of (financial, time, etc.) resources, since studies that cannot be consistently replicated are less likely to be true, (iii) results that are not replicable are, if they are applied, more likely to cause harm to individuals, animals, and society (e.g., by leading to mistaken economic measures or medicine that is detrimental to people’s health), and (iv) if too many results turn out not to be replicable, upon attempting to replicate them, that will gradually erode public trust in science.7
