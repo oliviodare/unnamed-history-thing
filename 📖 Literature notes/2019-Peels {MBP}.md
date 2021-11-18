@@ -45,11 +45,12 @@ a) thus the criticism on why the humanities cannot do replication cannot rest on
 
 
 b) since meaning, value, and so on are not what differentiates humanities and natural sciences, and if we are to create a humanities-specific notion of replication, in which agency, value, and meaning play a role, the natural sciences should look at this notion to understand how replication interacts with meaning, value, and so on. 
-(TJ: Counterpoint: this is what [[2018-de Rijcke, Penders {TJ}]] claim, that one of the core distinctions between humanities and physical sciences *is* the kind of objects they extract meaning from, and hence the kind of meaning they extract.)
+*(TJ: Counterpoint: this is what [[2018-de Rijcke, Penders {TJ}]] claim, that one of the core distinctions between humanities and physical sciences * is * the kind of objects they extract meaning from, and hence the kind of meaning they extract.)*
 
 > Also, I take “replication” and “reproduction” to be synonyms, as I do “replicability” and “reproducibility.”13
 
  This may be problematic.
+ *(TJ: [[2019-Kurapati & Teperek {TJ}]] explicitly makes this distinction, taking replication to be using the same method on a different dataset, while reproducing being trying to reproduce the exact experiment. Not sure I agree, seems somewhat arbitrary as I don't think scholars use these words that distinctively, but as a proposal it seems reasonable.)*
 
 > What this goes to show is that replication is a matter of degree and that in assessing the epistemic status of a replication, one should try to locate it on a replication continuum
 
