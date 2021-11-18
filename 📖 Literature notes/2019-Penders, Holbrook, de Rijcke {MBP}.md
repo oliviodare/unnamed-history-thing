@@ -1,6 +1,6 @@
 ---
 title: Rinse and Repeat. Understanding the Value of Replication across Different Ways of Knowing
-authors: Penders, Holbrook, Holbrook
+authors: Penders, Holbrook, de Rijcke
 year: 2019
 publication: Publications
 doi: 10.3390/publications7030052
@@ -21,7 +21,7 @@ url: https://www.mdpi.com/2304-6775/7/3/52
 
 
 
-> egardless of the definition used, it is important to note that neither ‘replicable’ nor ‘reproducible’ is a synonym for ‘true’, because, as Leek and Peng [19], Penders and Janssens [20] and Devezer et al. [21]1 argue replicable, and even replicated, research can be wrong.
+> Regardless of the definition used, it is important to note that neither ‘replicable’ nor ‘reproducible’ is a synonym for ‘true’, because, as Leek and Peng [19], Penders and Janssens [20] and Devezer et al. [21]1 argue replicable, and even replicated, research can be wrong.
 
 
 Reproducibility/replicability is not a recipe for success.  
@@ -36,7 +36,7 @@ Consensus does not imply truth.
 
 
 
-> n the same report (on quality, standards and rigour), Comaroff [35] dives into social anthropology to conclude that ethnographers and participant-observers can and should devote a lot more attention to explicate their procedures fully, not because it would create replicability but because it would allow scrutiny. This is in line with Wythoff [36], who writes “[M]ethod is interesting in the humanities not because it makes possible replicability and corroboration as it does in the sciences, but because it allows us to produce useful portraits of the work we do: our assumptions, our tools, and the assumptions behind our tools.” (p. 295)
+> In the same report (on quality, standards and rigour), Comaroff [35] dives into social anthropology to conclude that ethnographers and participant-observers can and should devote a lot more attention to explicate their procedures fully, not because it would create replicability but because it would allow scrutiny. This is in line with Wythoff [36], who writes “[M]ethod is interesting in the humanities not because it makes possible replicability and corroboration as it does in the sciences, but because it allows us to produce useful portraits of the work we do: our assumptions, our tools, and the assumptions behind our tools.” (p. 295)
 
  Repeating, being transparent about one's methods and assumptions, sharing pieces of our process of knowledge-making look different between disciplines, and while the humanities should probably do it (and already do!), it doesn't mean we should equate it with the concept of 'reproducibility' as used in the humanities.
 
